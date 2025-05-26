@@ -18,8 +18,8 @@ const merriweather = Merriweather({
 });
 
 export const metadata: Metadata = {
-  title: 'Ayok\'s accesories | Handcrafted Furniture and Decor',
-  description: 'Discover unique handcrafted chairs, artworks, and traveling bags made with passion and artisanal quality.',
+  title: 'Ayok\'s accesories | Schön By Purple Box',
+  description: 'Discover unique chairs, artworks, and traveling bags made with passion and artisanal quality.',
   keywords: 'artisan, handcrafted, chairs, artwork, bags, handmade, furniture, decor',
   openGraph: {
     title: 'Ayok\'s accesories | Handcrafted Furniture and Decor',

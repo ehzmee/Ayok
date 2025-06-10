@@ -16,7 +16,7 @@ export default function AboutSection() {
             className="relative h-[400px] md:h-[500px] rounded-lg overflow-hidden"
           >
             <Image
-              src="https://images.pexels.com/photos/4348404/pexels-photo-4348404.jpeg?auto=compress&cs=tinysrgb&w=1280"
+              src="homepage.jpg"
               alt="Artisan at work"
               fill
               sizes="(max-width: 768px) 100vw, 50vw"
@@ -31,7 +31,7 @@ export default function AboutSection() {
             viewport={{ once: true }}
             transition={{ duration: 0.7 }}
           >
-            <h2 className="text-3xl md:text-4xl font-bold text-amber-900 mb-6 font-sans">Our Story</h2>
+            /<h2 className="text-3xl md:text-4xl font-bold text-amber-900 mb-6 font-sans">Our Story</h2>
             <div className="prose prose-lg max-w-none text-gray-700 font-serif">
               <p className="mb-4">
                 Ayok&apos;s accesories began as a small family business, founded by Mahlon&apos;s mother with a passion for preserving traditional craftsmanship in a world of mass production.

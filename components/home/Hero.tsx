@@ -25,7 +25,7 @@ export default function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.7 }}
           >
-            Handcrafted with Love and Passion
+            Schön By Purple Box
           </motion.h1>
           
           <motion.p 
@@ -34,7 +34,7 @@ export default function Hero() {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.3, duration: 0.7 }}
           >
-            Discover our collection of unique artisanal treasures. Each piece tells a story of craftsmanship and dedication, bringing warmth and character to your home.
+            
           </motion.p>
           
           <motion.div

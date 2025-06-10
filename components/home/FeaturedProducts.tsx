@@ -51,7 +51,7 @@ export default function FeaturedProducts() {
           viewport={{ once: true }}
           transition={{ duration: 0.5 }}
         >
-          <h2 className="text-3xl md:text-4xl font-bold text-amber-900 mb-4 font-sans">Featured Treasures</h2>
+          <h2 className="text-3xl md:text-4xl font-bold text-amber-900 mb-4 font-sans">Featured Products</h2>
           <p className="text-gray-600 max-w-2xl mx-auto font-serif">
             Explore our handpicked selection of exceptional artisanal pieces, crafted with attention to detail and passion.
           </p>

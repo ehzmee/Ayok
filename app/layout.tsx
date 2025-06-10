@@ -18,14 +18,14 @@ const merriweather = Merriweather({
 });
 
 export const metadata: Metadata = {
-  title: 'Ayok\'s accesories | Handcrafted Furniture and Decor',
-  description: 'Discover unique handcrafted chairs, artworks, and traveling bags made with passion and artisanal quality.',
+  title: 'Schon By Purple Box | Schön BY PURPLE BOX',
+  description: 'Discover unique handcrafted chairs, artworks, and traveling bag s made with passion and artisanal quality.',
   keywords: 'artisan, handcrafted, chairs, artwork, bags, handmade, furniture, decor',
   openGraph: {
-    title: 'Ayok\'s accesories | Handcrafted Furniture and Decor',
+    title: 'Ayok\'s accesories | Schön BY PURPLE BOX',
     description: 'Discover unique handcrafted chairs, artworks, and traveling bags made with passion and artisanal quality.',
     url: 'https://artisantreasures.com',
-    siteName: 'Ayok\'s accesories',
+    siteName: 'Schon By Purple Box',
     locale: 'en_US',
     type: 'website',
   },

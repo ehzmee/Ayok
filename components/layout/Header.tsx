@@ -43,7 +43,7 @@ export default function Header() {
             "font-bold text-xl md:text-2xl transition-colors duration-300",
             isScrolled ? "text-amber-900" : "text-amber-800"
           )}>
-            Ayok's accesories
+            Schön By Purple Box
           </span>
         </Link>
         
